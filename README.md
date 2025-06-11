@@ -1,5 +1,5 @@
 # la-liga-analysis-public
-Public view of the la-liga-analysis repo: A statistical paper using regression techniques to analyze factors contributing to home-field advantage in the La Liga soccer league
+Public view of the la-liga-analysis repo: A statistical paper using regression techniques to analyze factors contributing to home-field advantage in the La Liga soccer league done as part of STAT 525 Regression Analysis @ UMass during Spring 2025.
 
 ### **If you would like to see the code implementation and paper, please get in touch with me with the methods outlined on my resume, or use the provided links on my resume. I cannot distribute this code publicly due to academic honesty guidelines**
 
