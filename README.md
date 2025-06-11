@@ -3,7 +3,7 @@ Public view of the la-liga-analysis repo: A statistical paper using regression t
 
 ### **If you would like to see the code implementation and paper, please get in touch with me with the methods outlined on my resume, or use the provided links on my resume. I cannot distribute this code publicly due to academic honesty guidelines**
 
-The private repo contains the full dataset from Kaggle, R code, paper, and presentation.
+The private repo contains the R code, paper, and presentation. The dataset is obtained from datahub.io: https://datahub.io/core/spanish-la-liga
 Below is the outlined intro of the paper:
 
 ### <u>Home-Field Advantage in the La-Liga Professional Soccer League</u>
